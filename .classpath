@@ -120,5 +120,42 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/moaci/.m2/repository/org/springframework/security/spring-security-crypto/6.0.3/spring-security-crypto-6.0.3.jar" sourcepath="C:/Users/moaci/.m2/repository/org/springframework/security/spring-security-crypto/6.0.3/spring-security-crypto-6.0.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.security"/>
+			<attribute name="maven.artifactId" value="spring-security-crypto"/>
+			<attribute name="maven.version" value="6.0.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/moaci/.m2/repository/org/springframework/security/spring-security-web/6.0.3/spring-security-web-6.0.3.jar" sourcepath="C:/Users/moaci/.m2/repository/org/springframework/security/spring-security-web/6.0.3/spring-security-web-6.0.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.security"/>
+			<attribute name="maven.artifactId" value="spring-security-web"/>
+			<attribute name="maven.version" value="6.0.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/sgv"/>
+	<classpathentry kind="lib" path="C:/Users/moaci/.m2/repository/org/springframework/security/spring-security-config/6.0.3/spring-security-config-6.0.3.jar" sourcepath="C:/Users/moaci/.m2/repository/org/springframework/security/spring-security-config/6.0.3/spring-security-config-6.0.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.security"/>
+			<attribute name="maven.artifactId" value="spring-security-config"/>
+			<attribute name="maven.version" value="6.0.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/moaci/.m2/repository/org/springframework/data/spring-data-jpa/3.0.5/spring-data-jpa-3.0.5.jar" sourcepath="C:/Users/moaci/.m2/repository/org/springframework/data/spring-data-jpa/3.0.5/spring-data-jpa-3.0.5-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.data"/>
+			<attribute name="maven.artifactId" value="spring-data-jpa"/>
+			<attribute name="maven.version" value="3.0.5"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
