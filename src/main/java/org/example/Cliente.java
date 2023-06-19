@@ -19,6 +19,5 @@ public class Cliente {
 	(min=1,message = "O nome precisa ser válido.")
 	private String nome;
     private int cpf;
-	
-
-}
+    private Processo processo;
+	}

@@ -31,7 +31,7 @@ public class ProcessoController {
     @GetMapping("/processo/novo")
     public String novo(Model model) {
         model.addAttribute("processo", new Processo());
-        return "editar_pessoa_fisica";
+        return "editar_processo";
     }
 
     @GetMapping("/processo/{id}")
