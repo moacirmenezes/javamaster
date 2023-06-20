@@ -1,7 +1,7 @@
 package org.example.controller;
 
-import br.com.sgv.model.Usuario;
-import br.com.sgv.repository.UsuarioRepository;
+import org.example.Usuario;
+import org.example.repository.UsuarioRepository;
 import jakarta.validation.Valid;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
